@@ -13,7 +13,7 @@ Movie App reaction application using Material UI Library.  Redux Toolkit is used
   API Website: https://www.themoviedb.org/
   Final Website: https://kn-react-movie-explorer-app.netlify.app/
 
-  ![MovieExplorer](kn-react-movie-explorer-app.netlify.app_)
+  ![MovieExplorer](image/kn-react-movie-explorer-app.netlify.app_.png)
 
 # Getting Started with Create React App
 
