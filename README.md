@@ -1,4 +1,4 @@
-##Movie Explorer 
+## Movie Explorer 
 
 ## Description
 Movie App reaction application using Material UI Library.  Redux Toolkit is used for managing the state of the application, Redux Saga for handling side effects. Movie Explorer is optimized for mobile devices using Material UI and React. Deployed using Netlify. 
@@ -10,8 +10,10 @@ Movie App reaction application using Material UI Library.  Redux Toolkit is used
 * Debugging 
 * Creating a dark theme
 
-  API Website: https://www.themoviedb.org/
-  Final Website: https://kn-react-movie-explorer-app.netlify.app/
+
+* API Website: https://www.themoviedb.org/
+
+* Final Website: https://kn-react-movie-explorer-app.netlify.app/
 
   ![MovieExplorer](image/kn-react-movie-explorer-app.netlify.app_.png)
 
